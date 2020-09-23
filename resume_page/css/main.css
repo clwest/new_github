@@ -1,0 +1,18 @@
+body {
+    background-color: #778899;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    text-shadow: 5px 5px 10px #0000ff
+}
+h3 {
+    color: #2f4f4f;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    color: #2f4f4f
+}
